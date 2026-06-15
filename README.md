@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Olá, eu sou [Seu Nome]
 
-<!--
-**hhgltr/hhgltr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor apaixonado por tecnologia, programação e criação de soluções que geram impacto.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌱 Atualmente aprendendo: **[html]**
+* 🔭 Trabalhando em: **[calculadora de carbono]**
+* 👯 Interessado em colaborar em projetos **sla qualquer um**
+* ⚡ Curiosidade: **[fa de kiss,n1 de cuphead na jaguruna,melhor repositor do moniari da jaguaruna]**
+
+
+
