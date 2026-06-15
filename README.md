@@ -2,7 +2,7 @@
 
 Se você chegou até aqui, provavelmente estava curioso para saber quem está por trás dos commits.
 
-Meu nome é **[heitor]**, e sou alguém que gosta de aprender coisas novas, resolver problemas e transformar ideias em projetos. A tecnologia é uma das minhas paixões, mas está longe de ser a única coisa que me define.
+Meu nome é heitor, e sou alguém que gosta de aprender coisas novas, resolver problemas e transformar ideias em projetos. A tecnologia é uma das minhas paixões, mas está longe de ser a única coisa que me define.
 
 ## Sobre mim
 
