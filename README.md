@@ -32,9 +32,9 @@ Por isso gosto de criar, testar, errar, aprender e continuar evoluindo. Não bus
 ## Atualmente
 
 * 🌱 Aprendendo php atualmente
-* 📖 Buscando evoluir profissionalmente e como pessoaas vezes
-* 💡 e de vez enquando tento fazer minhas ideias dar certo
+* 📖 Buscando evoluir profissionalmente e como pessoa as vezes
+* 💡 de vez enquando tento fazer minhas ideias dar certo
 
 ## Uma curiosidade
 
-sou muito comunicativo e uma pessoa muito tranquilae simpatica 
+sou muito comunicativo e uma pessoa muito tranquila e simpatica ,geralmente procuro novas amizades em ambiente diferentes
